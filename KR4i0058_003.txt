@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 漁洋詩話
-#+DATE: 2020-03-31 11:42:50.256290
+#+DATE: 2020-03-31 11:42:50.309261
 #+PROPERTY: ID KR4i0058
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR4i0058_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -456,7 +456,7 @@
 受風秋色裏冶游心醉麴塵絲拂隄又復映征㠶折贈¶
 還宜女手摻薄暮一畨微雨過江州司馬濕青衫¶
 ¶
-　　南海鄺露集有詩云峻&KR0656;極金隣摩天見九真按升菴¶
+　　南海鄺露集有詩云峻嶺極金隣摩天見九真按升菴¶
 集云張籍蠻中詩銅柱南邊毒草春行人㡬日到金潾¶
 金潾交趾地名水經注所謂金潾清渚是也潾與鄰通¶
 <pb:KR4i0058_WYG_003-22b>¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 漁洋詩話
-#+DATE: 2020-03-31 11:42:50.241186
+#+DATE: 2020-03-31 11:42:50.299065
 #+PROPERTY: ID KR4i0058
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4i0058_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -607,7 +607,7 @@
 ¶
 <pb:KR4i0058_WYG_002-29b>¶
 　　合肥李相國容齋(天馥)服闋入都其壬戌諸門生已多通¶
-顯置酒新第翰林侍讀學士史胄司(夔)即席賦詩曰郎¶
+顯置酒新第翰林侍讀學士史胄司(䕫)即席賦詩曰郎¶
 君館閣稱前輩弟子門墻半列卿時比於唐人鸞掖鯉¶
 庭之句¶
 ¶
